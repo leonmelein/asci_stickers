@@ -1,0 +1,192 @@
+{
+    "android_play_store_link": "",
+    "ios_app_store_link": "",
+    "sticker_packs": [
+        {
+            "identifier": "asci_stickerpack_1",
+            "license_agreement_website": "https://www.ascigroningen.nl",
+            "name": "ASCI",
+            "privacy_policy_website": "https://www.ascigroningen.nl/privacy",
+            "publisher": "ASCI MediaCie",
+            "publisher_email": "mediacie@ascigroningen.nl",
+            "publisher_website": "https://www.ascigroningen.nl",
+            "stickers": [
+                {
+                    "emojis": [
+                        "💙"
+                    ],
+                    "image_file": "asci.webp"
+                },
+                {
+                    "emojis": [
+                        "⏰",
+                        "📢"
+                    ],
+                    "image_file": "alarm.webp"
+                },
+                {
+                    "emojis": [
+                        "📄"
+                    ],
+                    "image_file": "sticker.webp"
+                },
+                {
+                    "emojis": [
+                        "🏃‍♀️",
+                        "🏃‍♂️"
+                    ],
+                    "image_file": "accie.webp"
+                },
+                {
+                    "emojis": [
+                        "⛺️",
+                        "🏕"
+                    ],
+                    "image_file": "bakkeveen.webp"
+                },
+                {
+                    "emojis": [
+                        "👍"
+                    ],
+                    "image_file": "liften_up.webp"
+                },
+                {
+                    "emojis": [
+                        "👎️"
+                    ],
+                    "image_file": "liften_down.webp"
+                },
+                {
+                    "emojis": [
+                        "🇵🇹",
+                        "✈️"
+                    ],
+                    "image_file": "lissabon.webp"
+                },
+                {
+                    "emojis": [
+                        "🎒",
+                        "✈️"
+                    ],
+                    "image_file": "reiscie.webp"
+                },
+                {
+                    "emojis": [
+                        "🎒",
+                        "✉️️"
+                    ],
+                    "image_file": "spamalert.webp"
+                },
+                {
+                    "emojis": [
+                        "🍺"
+                    ],
+                    "image_file": "deklok.webp"
+                },
+                {
+                    "emojis": [
+                        "🍕"
+                    ],
+                    "image_file": "dominos.webp"
+                },
+                {
+                    "emojis": [
+                        "🛍"
+                    ],
+                    "image_file": "lidl.webp"
+                },
+                {
+                    "emojis": [
+                        "☕️"
+                    ],
+                    "image_file": "mok.webp"
+                },
+                {
+                    "emojis": [
+                        "🕶"
+                    ],
+                    "image_file": "zonnebril.webp"
+                },
+                {
+                    "emojis": [
+                        "🃏"
+                    ],
+                    "image_file": "speelkaart.webp"
+                },
+                {
+                    "emojis": [
+                        "🧢"
+                    ],
+                    "image_file": "pet.webp"
+                },
+                {
+                    "emojis": [
+                        "🖱"
+                    ],
+                    "image_file": "muismat.webp"
+                },
+                {
+                    "emojis": [
+                        "🎄"
+                    ],
+                    "image_file": "kerstbal.webp"
+                },
+                {
+                    "emojis": [
+                        "💡"
+                    ],
+                    "image_file": "licht.webp"
+                },
+                {
+                    "emojis": [
+                        "❌"
+                    ],
+                    "image_file": "afmelden.webp"
+                },
+                {
+                    "emojis": [
+                        "💻"
+                    ],
+                    "image_file": "bsod.webp"
+                },
+                {
+                    "emojis": [
+                        "🃏"
+                    ],
+                    "image_file": "python.webp"
+                },
+                {
+                    "emojis": [
+                        "🆘"
+                    ],
+                    "image_file": "prolog.webp"
+                },
+                {
+                    "emojis": [
+                        "📎"
+                    ],
+                    "image_file": "touw.webp"
+                },
+                {
+                    "emojis": [
+                        "❌"
+                    ],
+                    "image_file": "build_failing.webp"
+                },
+                {
+                    "emojis": [
+                        "📄"
+                    ],
+                    "image_file": "sourcecode.webp"
+                },
+                {
+                    "emojis": [
+                        "🖥"
+                    ],
+                    "image_file": "terminal.webp"
+                }
+            ],
+            "tray_image_file": "tray.png"
+        }
+    ]
+}
